@@ -3,9 +3,10 @@
     <property name="created">2018-03-23T21:59:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2018-04-20T19:07:50</property>
+    <property name="modified">2018-04-20T20:28:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
