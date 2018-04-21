@@ -1,1 +1,8 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="ALIGN_VAR_STATEMENTS" value="1" />
+  </JSCodeStyleSettings>
+</code_scheme>
