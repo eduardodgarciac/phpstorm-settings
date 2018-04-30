@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="240" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
