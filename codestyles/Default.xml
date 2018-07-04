@@ -8,6 +8,7 @@
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
