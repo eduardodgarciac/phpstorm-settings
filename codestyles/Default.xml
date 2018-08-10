@@ -6,6 +6,7 @@
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
