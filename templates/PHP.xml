@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="com" value="/*------------------------------------------------------------------------------------------&#10;| &#10;'-----------------------------------------------------------------------------------------*/" description="print a title comment" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
