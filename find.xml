@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="index.js" />
+    <option name="FILE_MASK" value="state.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,5 +19,6 @@
     <mask>mutations.js</mask>
     <mask>actions.js</mask>
     <mask>index.js</mask>
+    <mask>state.js</mask>
   </component>
 </application>
